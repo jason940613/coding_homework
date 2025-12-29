@@ -1,4 +1,4 @@
-# ML1141 – YOLO12n Training and Evaluation
+# YOLO12n Training and Evaluation
 
 This repository is a machine learning course assignment for training and evaluating a YOLO-based object detection model.
 
